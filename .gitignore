@@ -286,3 +286,5 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+/Exercise 3/Completed/BookClient.iOS
+/Exercise 3/Completed/BookClient.UWP
